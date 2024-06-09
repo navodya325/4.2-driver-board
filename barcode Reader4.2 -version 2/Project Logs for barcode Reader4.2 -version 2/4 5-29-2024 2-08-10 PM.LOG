@@ -1,0 +1,2 @@
+Change component parameters: Designator = "U5" ("U5"); Footprint = "CP2102N-A02-GQFN28"; UniqueID = "\UAIDNATX" ("\UAIDNATX")
+Change component parameters (AddParameter): Name = "MP"; Value = "CP2102N-A02-GQFN28"; VariantName = "[No Variations]"

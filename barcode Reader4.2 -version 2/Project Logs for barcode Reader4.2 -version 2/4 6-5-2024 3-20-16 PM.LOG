@@ -1,0 +1,75 @@
+Removed Pin From Net: NetName=NetC5_2 Pin=J1-4
+Removed Pin From Net: NetName=NetC6_2 Pin=J1-5
+Removed Pin From Net: NetName=RST Pin=J1-10
+Removed Pin From Net: NetName=NetJ1_11 Pin=J1-11
+Removed Pin From Net: NetName=NetJ1_12 Pin=J1-12
+Removed Pin From Net: NetName=NetJ1_13 Pin=J1-13
+Removed Pin From Net: NetName=NetJ1_14 Pin=J1-14
+Removed Pin From Net: NetName=NetC4_1 Pin=J1-15
+Removed Pin From Net: NetName=NetC4_1 Pin=J1-16
+Removed Pin From Net: NetName=GND Pin=J1-17
+Removed Pin From Net: NetName=NetC8_2 Pin=J1-18
+Removed Pin From Net: NetName=NetC9_2 Pin=J1-19
+Removed Pin From Net: NetName=NetC10_2 Pin=J1-20
+Removed Pin From Net: NetName=NetC2_1 Pin=J1-21
+Removed Pin From Net: NetName=NetC11_2 Pin=J1-22
+Removed Pin From Net: NetName=NetC1_1 Pin=J1-23
+Removed Pin From Net: NetName=NetC12_2 Pin=J1-24
+Removed Pin From Net: NetName=NetJ1_14 Pin=U3-3
+Removed Pin From Net: NetName=NetJ1_13 Pin=U3-4
+Removed Pin From Net: NetName=NetJ1_12 Pin=U3-5
+Removed Pin From Net: NetName=NetJ1_11 Pin=U3-6
+Change Component Comment : Designator=Q2 Old Comment= MMS8050-H-TP New Comment=MMS8050-H-TP
+Change Component Comment : Designator=R28 Old Comment=NC/0R New Comment=0R
+Change Component Designator: OldDesignator=RESET NewDesignator=BUTTON1
+Change Component Designator: OldDesignator=TRIGGER NewDesignator=BUTTON2
+Added Component: Designator=J1(PANASONIC_AYF532435)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AYF532435/Panasonic/view-part/3222527/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Panasonic Electric Works"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AYF532435"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/AYF532435/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AYF532435/Panasonic/view-part/3222527/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC12_2 Pin=J1-1
+Added Pin To Net: NetName=NetC1_1 Pin=J1-2
+Added Pin To Net: NetName=NetC11_2 Pin=J1-3
+Added Pin To Net: NetName=NetC2_1 Pin=J1-4
+Added Pin To Net: NetName=NetC10_2 Pin=J1-5
+Added Pin To Net: NetName=NetC9_2 Pin=J1-6
+Added Pin To Net: NetName=NetC8_2 Pin=J1-7
+Added Pin To Net: NetName=GND Pin=J1-8
+Added Pin To Net: NetName=NetC4_1 Pin=J1-9
+Added Pin To Net: NetName=NetC4_1 Pin=J1-10
+Added Pin To Net: NetName=NetJ1_11 Pin=J1-11
+Added Pin To Net: NetName=NetJ1_12 Pin=J1-12
+Added Pin To Net: NetName=NetJ1_13 Pin=J1-13
+Added Pin To Net: NetName=NetJ1_14 Pin=J1-14
+Added Pin To Net: NetName=RST Pin=J1-15
+Added Pin To Net: NetName=NetC6_2 Pin=J1-20
+Added Pin To Net: NetName=NetC5_2 Pin=J1-21
+Added Pin To Net: NetName=NetJ1_11 Pin=U3-3
+Added Pin To Net: NetName=NetJ1_12 Pin=U3-4
+Added Pin To Net: NetName=NetJ1_13 Pin=U3-5
+Added Pin To Net: NetName=NetJ1_14 Pin=U3-6
+Added Pin To Net: NetName=NetJ1_16 Pin=J1-16
+Added Pin To Net: NetName=NetJ1_16 Pin=U3-8
+Added Net: Name=NetJ1_16
+Added Pin To Net: NetName=NetJ1_17 Pin=J1-17
+Added Pin To Net: NetName=NetJ1_17 Pin=R3-2
+Added Net: Name=NetJ1_17
+Added Pin To Net: NetName=NetJ1_22 Pin=J1-22
+Added Pin To Net: NetName=NetJ1_22 Pin=Q1-2
+Added Pin To Net: NetName=NetJ1_22 Pin=R2-1
+Added Net: Name=NetJ1_22
+Added Pin To Net: NetName=NetJ1_23 Pin=J1-23
+Added Pin To Net: NetName=NetJ1_23 Pin=Q1-1
+Added Pin To Net: NetName=NetJ1_23 Pin=R1-1
+Added Net: Name=NetJ1_23
+Change Class Name : Old Net Name=4.2inchdisplay New Net Name=4.2inchdisplay1
+Change Class Name : Old Net Name=microcontroller_board1 New Net Name=microcontroller_board2
+Added Member To Class: ClassName=microcontroller_board2 Member=Component R25 22K
+Added Member To Class: ClassName=microcontroller_board2 Member=Component R26 47.5K

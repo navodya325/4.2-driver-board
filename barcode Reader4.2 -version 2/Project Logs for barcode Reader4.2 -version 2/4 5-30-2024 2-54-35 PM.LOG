@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetR23_1 Pin=R23-1
+Removed Pin From Net: NetName=GND Pin=R23-2
+Added Component: Designator=R23(RES_0603)
+Add component (AddParameter): Name = "Package Size"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR23_1 Pin=R23-1
+Added Pin To Net: NetName=GND Pin=R23-2
+Added Member To Class: ClassName=microcontroller_board1 Member=Component R24 1k

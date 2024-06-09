@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=NetR21_1 Pin=R21-1
+Removed Pin From Net: NetName=NetB11_1 Pin=R21-2
+Removed Pin From Net: NetName=NetR22_1 Pin=R22-1
+Removed Pin From Net: NetName=NetB9_1 Pin=R22-2
+Removed Pin From Net: NetName=NetR29_1 Pin=R29-1
+Removed Pin From Net: NetName=NetP2_5 Pin=R29-2
+Removed Pin From Net: NetName=NetR30_1 Pin=R30-1
+Removed Pin From Net: NetName=NetP2_2 Pin=R30-2
+Added Component: Designator=R21(RES_0603)
+Add component (AddParameter): Name = "Package Size"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R22(RES_0603)
+Add component (AddParameter): Name = "Package Size"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R29(RES_0603)
+Add component (AddParameter): Name = "Package Size"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R30(RES_0603)
+Add component (AddParameter): Name = "Package Size"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR21_1 Pin=R21-1
+Added Pin To Net: NetName=NetB11_1 Pin=R21-2
+Added Pin To Net: NetName=NetR22_1 Pin=R22-1
+Added Pin To Net: NetName=NetB9_1 Pin=R22-2
+Added Pin To Net: NetName=NetR29_1 Pin=R29-1
+Added Pin To Net: NetName=NetP2_5 Pin=R29-2
+Added Pin To Net: NetName=NetR30_1 Pin=R30-1
+Added Pin To Net: NetName=NetP2_2 Pin=R30-2
+Added Member To Class: ClassName=microcontroller_board1 Member=Component R23 10k

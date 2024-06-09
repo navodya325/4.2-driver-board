@@ -1,0 +1,5 @@
+Change Component Comment : Designator=R1 Old Comment=10k New Comment=10k/NC
+Change Component Comment : Designator=Q2 Old Comment= MMS8050-H-TP New Comment=MMS8050-H-TP
+Change Component Comment : Designator=R28 Old Comment=NC/0R New Comment=0R
+Change Component Designator: OldDesignator=RESET NewDesignator=BUTTON1
+Change Component Designator: OldDesignator=TRIGGER NewDesignator=BUTTON2
